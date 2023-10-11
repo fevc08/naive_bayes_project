@@ -3,7 +3,6 @@
 <!-- endhide -->
 
 - Understand a new dataset.
-	@@ -9,15 +9,15 @@
 
 ## 🌱  How to start this project
 
